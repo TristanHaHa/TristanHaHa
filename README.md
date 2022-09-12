@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TristanHaHa
-- 👀 I’m looking for a 2023 Summer Internship in software development.
-- 🌱 I’m currently attending University of California, Irvine as a second-year Computer Science Major.
+- 👀 I’m looking for a 2023 Summer New Grad job in software development.
+- 🌱 I’m currently a senior attending University of California, Irvine as a Computer Science Major.
 - 📫 How to reach me: tristaqh@uci.edu
 
 <!---
